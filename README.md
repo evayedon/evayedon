@@ -23,7 +23,7 @@ Welcome to my GitHub! I'm a passionate developer currently pursuing a degree in 
 ## 🛠 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,py,js,html,css,git,vscode,docker,linux,aws" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=cpp,py,js,html,css,git,docker,linux,aws" alt="Tech Stack" />
 </p>
 
 ---
@@ -46,7 +46,7 @@ Welcome to my GitHub! I'm a passionate developer currently pursuing a degree in 
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=evayedon&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=evayedon&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=evayedon&show_icons=true&theme=radical)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=evayedon&layout=compact&theme=radical)
 
 ---
 
