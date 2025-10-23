@@ -62,6 +62,6 @@ Welcome to my GitHub! I'm a passionate developer currently pursuing a degree in 
 
 ---
 
-⭐ **Fun Fact**: When I'm not coding, I enjoy animation!  
+⭐ **Fun Fact**: When I'm not coding, I enjoy anime!  
 
 Thanks for visiting my profile! Let's build something amazing together. 🚀
