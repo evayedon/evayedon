@@ -43,10 +43,11 @@ Welcome to my GitHub! I'm a passionate developer currently pursuing a degree in 
 - [Live Demo](https://github.com/evayedon/Weather-App)
 
 ---
-
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=evayedon&show_icons=true&theme=radical)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=evayedon&layout=compact&theme=radical)
+![Evans's GitHub stats](https://github-readme-stats.vercel.app/api?username=evayedon&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=evayedon&layout=compact&theme=radical)
+
 
 ---
 
